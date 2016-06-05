@@ -1,0 +1,2 @@
+# eureka
+eureka server
